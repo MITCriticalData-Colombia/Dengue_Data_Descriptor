@@ -1,13 +1,13 @@
 # Dengue Data Descriptor:
 
-## Tabular Data:
+## 1. Tabular Data:
 
-### Dengue Cases
+### 1.1. Dengue Cases
 
-### Socioeconomic, sociodemographic
+### 1.2. Socioeconomic, sociodemographic
 
-### Meteorological Data
+### 1.3. Meteorological Data
 
 
-## Satellite Images:
+## 2. Satellite Images:
 
